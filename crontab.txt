@@ -1,0 +1,2 @@
+MAILTO=""
+00 * * * * /email_tracker.py >/dev/null

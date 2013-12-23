@@ -1,0 +1,7 @@
+{
+  "email": "your email address here", 
+  "email_pass": "your password here", 
+  "bm_username": "your username here", 
+  "bm_goal": "your goal here",
+  "bm_auth_token": "Your key here"
+}
