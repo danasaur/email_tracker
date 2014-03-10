@@ -30,7 +30,7 @@ You will need your **username**, **goal_name**, and **personal authorization tok
 ### Environment Setup
 
 Files included:
-- [ ] requests folder (_a dependency: http://bit.ly/requests_py_)
+- [ ] requests folder (_a dependency: http://bit.ly/requestspy )
 - [ ] email_tracker.py
 - [*] email_tracker_config.json
 - [/] crontab.txt
